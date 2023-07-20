@@ -17,5 +17,4 @@ const FirebaseContextProvider = ({ children }) => {
   )
 }
 
-
 export default FirebaseContextProvider
